@@ -20,12 +20,15 @@ Time Factors: Influence of delivery time on purchase decisions.
 Service Factors: Impact of delivery person ability, politeness, and number of calls.
 
 #Notebook Explanation
+
 Data Preprocessing:
 Data cleaning involved handling missing values, categorizing ages into groups, and transforming categorical variables.
 Created new features to better analyze consumer demographics and preferences.
 Exploratory Data Analysis (EDA):
 
-Demographics: Visualized age distribution, gender, marital status, occupation, monthly income, family size, and educational qualifications.
+#Demographics
+
+Visualized age distribution, gender, marital status, occupation, monthly income, family size, and educational qualifications.
 Preferences: Analyzed preferred mediums, types of meals, and cuisines.
 Influencing Factors: Investigated factors that both encourage and discourage the use of online food delivery services.
 Service Factors: Explored how delivery person traits impact the customer experience.
