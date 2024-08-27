@@ -1,6 +1,6 @@
 import numpy as np # linear algebra
 import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
-online_food_delivery_df = pd.read_csv('/kaggle/input/online-food-delivery-preferencesbangalore-region/onlinedeliverydata.csv')
+online_food_delivery_df = pd.read_csv("C:/Users/ss748/OneDrive/Documents/Desktop/onlinedeliverydata.csv")
 online_food_delivery_df.head()
 online_food_delivery_df.shape
 print(online_food_delivery_df.info())
